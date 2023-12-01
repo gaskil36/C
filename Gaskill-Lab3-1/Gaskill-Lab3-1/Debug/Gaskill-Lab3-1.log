@@ -1,0 +1,5 @@
+﻿  Gaskill-Lab3-1.cpp
+h:\csnp\gaskill-lab3-1\gaskill-lab3-1\gaskill-lab3-1.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\csnp\gaskill-lab3-1\gaskill-lab3-1\gaskill-lab3-1.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\csnp\gaskill-lab3-1\gaskill-lab3-1\gaskill-lab3-1.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Gaskill-Lab3-1.vcxproj -> H:\CSNP\Gaskill-Lab3-1\Debug\Gaskill-Lab3-1.exe
