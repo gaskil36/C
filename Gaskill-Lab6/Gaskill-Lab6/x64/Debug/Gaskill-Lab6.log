@@ -1,0 +1,3 @@
+﻿  Gaskill-Lab6.cpp
+Gaskill-Lab6.obj : error LNK2019: unresolved external symbol "public: void __cdecl RowanGrade::menuScreen(void)" (?menuScreen@RowanGrade@@QEAAXXZ) referenced in function main
+H:\CSNP\Gaskill-Lab6\x64\Debug\Gaskill-Lab6.exe : fatal error LNK1120: 1 unresolved externals
