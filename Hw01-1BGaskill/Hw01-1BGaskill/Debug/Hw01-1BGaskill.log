@@ -1,0 +1,4 @@
+﻿  Hw01-1BGaskill.cpp
+h:\csnp\hw01-1bgaskill\hw01-1bgaskill\hw01-1bgaskill.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\csnp\hw01-1bgaskill\hw01-1bgaskill\hw01-1bgaskill.cpp(23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Hw01-1BGaskill.vcxproj -> H:\CSNP\Hw01-1BGaskill\Debug\Hw01-1BGaskill.exe

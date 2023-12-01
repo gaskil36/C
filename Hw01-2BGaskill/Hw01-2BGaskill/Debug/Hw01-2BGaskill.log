@@ -1,0 +1,4 @@
+﻿  Hw01-2BGaskill.cpp
+h:\csnp\hw01-2bgaskill\hw01-2bgaskill\hw01-2bgaskill.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\csnp\hw01-2bgaskill\hw01-2bgaskill\hw01-2bgaskill.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Hw01-2BGaskill.vcxproj -> H:\CSNP\Hw01-2BGaskill\Debug\Hw01-2BGaskill.exe
