@@ -1,0 +1,4 @@
+﻿  HW-05-1BGaskill.cpp
+h:\csnp\hw-05-1bgaskill\hw-05-1bgaskill\hw-05-1bgaskill.cpp(68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+h:\csnp\hw-05-1bgaskill\hw-05-1bgaskill\hw-05-1bgaskill.cpp(79): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  HW-05-1BGaskill.vcxproj -> H:\CSNP\HW-05-1BGaskill\Debug\HW-05-1BGaskill.exe

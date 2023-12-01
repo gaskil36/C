@@ -1,0 +1,5 @@
+﻿  RestaurantBill2.cpp
+h:\csnp\restaurantbill2\restaurantbill2\restaurantbill2.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\csnp\restaurantbill2\restaurantbill2\restaurantbill2.cpp(32): error C2065: 'Meal_cost': undeclared identifier
+h:\csnp\restaurantbill2\restaurantbill2\restaurantbill2.cpp(48): error C2146: syntax error: missing ';' before identifier 'setprecision'
+h:\csnp\restaurantbill2\restaurantbill2\restaurantbill2.cpp(48): error C2676: binary '<<': 'std::_Smanip<std::streamsize>' does not define this operator or a conversion to a type acceptable to the predefined operator
